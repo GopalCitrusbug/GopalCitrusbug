@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611rhxuojntb4rwxebjo5g5ki7ql4nsxhl8t0nq0a5j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Neel Shah" width="700"/>
-</p>
 
 # Hello, I'm Gopal Kodganti! 👋
 
